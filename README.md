@@ -8,7 +8,7 @@
 ```
 python3 -m venv .venv
 source .venv/bin/activate
-python -m pip install setuptools ctypeslib2 clang pybind11
+python -m pip install setuptools ctypeslib2 clang==16.0.6 pybind11
 ```
 
 ## Build
