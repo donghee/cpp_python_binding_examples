@@ -13,6 +13,8 @@ python -m pip install setuptools ctypeslib2 clang==16.0.6 pybind11
 
 ## Build
 
+Example of Python Binding For C
+
 ```
 $ cd ctypeslib2
 $ ./build.sh
@@ -21,6 +23,8 @@ $ ./build.sh
 12
 103
 ```
+
+Example of Python Binding For C++
 
 ```
 $ cd pybind11
