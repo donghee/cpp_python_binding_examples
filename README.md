@@ -18,6 +18,7 @@ $ cd ctypeslib2
 $ ./build.sh
 
 12
+12
 103
 ```
 
