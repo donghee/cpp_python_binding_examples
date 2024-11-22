@@ -1,6 +1,6 @@
 # Cpp Python Binding Examples
 
-- ctyleslib2 for C
+- ctypeslib2 for C
 - pybind11 for C++
 
 ## Install
